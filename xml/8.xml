@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="ar">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
+                <title xml:lang="en">Catalogue of Syriac manuscripts in the British museum acquired since the year 1838</title>
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
                 <funder>The International Balzan Prize Foundation</funder>
@@ -23,7 +23,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/bibl/2/source</idno>
+                <idno type="URI">http://syriaca.org/bibl/8/source</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         Distributed under a Creative Commons Attribution 3.0 Unported License
@@ -43,31 +43,20 @@
         <body>
             <biblStruct>
                 <monogr>
-                    <author ref="http://syriaca.org/person/372">
+                    <author ref="http://syriaca.org/person/807">
                         <persName xml:lang="en">
-                            <forename>Ignatius</forename>
-                            <forename>Afram</forename>
-                            <surname>Barsoum</surname>
-                        </persName>
-                        <persName xml:lang="ar">
-                            <forename>اغناطيوس</forename>
-                            <forename>افرام</forename>
-                            <addName>الاول</addName>
-                            <surname>برصوم</surname>
+                            <forename>William</forename>
+                            <surname>Wright</surname>
                         </persName>
                     </author>
-                    <title xml:lang="ar" level="m">كتاب اللؤلؤ المنثور في تاريخ العلوم والأداب السريانية</title>
-                    <title xml:lang="en" level="m" type="parallel">al-Luʼluʼ al-manthūr fī tārīkh al-ʻulūm wa-al-ādāb al-Suryāniyyah</title>
-                    <edition xml:lang="ar">الطبعة الثالثة</edition>
-                    <edition xml:lang="en">3rd ed.</edition>
+                    <title xml:lang="en" level="m">Catalogue of Syriac Manuscripts in the British Museum acquired since the year 1838</title>
                     <imprint>
-                        <publisher xml:lang="ar">مجمع اللغة السريانية</publisher>
-                        <publisher xml:lang="en">Majmaʻ al-Lughah al-Suryāniyyah</publisher>
-                        <pubPlace ref="http://syriaca.org/place/41">Baghdad</pubPlace>
-                        <date>1976</date>
+                        <publisher xml:lang="en">Gilbert and Rivington</publisher>
+                        <pubPlace ref="http://syriaca.org/place/701">London</pubPlace>
+                        <date>1870-1872</date>
                     </imprint>
                 </monogr>
-                <idno type="URI">http://syriaca.org/bibl/2</idno>
+                <idno type="URI">http://syriaca.org/bibl/8</idno>
             </biblStruct>
         </body>
     </text>

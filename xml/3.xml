@@ -23,20 +23,20 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Syriaca.org: The Syriac Reference Portal</authority>
-                <idno type="URI">http://syriaca.org/editors.xml</idno>
+                <idno type="URI">http://syriaca.org/bibl/3/source</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         Distributed under a Creative Commons Attribution 3.0 Unported License
                     </licence>
                 </availability>
-                <date>2013-07-03</date>
+                <date>2013-07-07</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2013-03-25" who="http://syriaca.org/editors.xml#tcarlson">CREATED: bibliographic entry</change>
+            <change when="2013-07-07" who="http://syriaca.org/editors.xml#tcarlson">CREATED: bibliographic entry</change>
         </revisionDesc>
     </teiHeader>
     <text>
