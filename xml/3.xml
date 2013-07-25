@@ -29,13 +29,14 @@
                         Distributed under a Creative Commons Attribution 3.0 Unported License
                     </licence>
                 </availability>
-                <date>2013-07-07</date>
+                <date>2013-07-25</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change when="2013-07-25" who="http://syriaca.org/editors.xml#tcarlson">ADDED: translator</change>
             <change when="2013-07-07" who="http://syriaca.org/editors.xml#tcarlson">CREATED: bibliographic entry</change>
         </revisionDesc>
     </teiHeader>
@@ -56,6 +57,18 @@
                             <surname>ܕܒܝܬ ܒܪܨܘܡ</surname>
                         </persName>
                     </author>
+                    <editor role="translator" ref="http://syriaca.org/person/454">
+                        <persName xml:lang="en">
+                            <forename>Philoxenos</forename> 
+                            <forename>Yuḥanon</forename>
+                            <surname>Dolabani</surname>
+                        </persName>
+                        <persName xml:lang="syr">
+                            <forename>ܦܝܠܠܘܟܣܝܢܘܣ</forename>
+                            <forename>ܝܘܚܢܢ</forename>
+                            <surname>ܕܘܠܒܐܢܝ</surname>
+                        </persName>
+                    </editor>
                     <title xml:lang="syr" level="m">ܒܪ̈ܘܠܐ ܒܕܝܪ̈ܐ ܕܥܠ ܡܪܕܘܬ ܝܘܠܦܢ̈ܐ ܣܘܪ̈ܝܝܐ ܗܕܝܪ̈ܐ</title>
                     <title xml:lang="en" level="m" type="parallel">Berule bdire d-ʿal yulpone suryoye hdire</title>
                     <edition xml:lang="syr">ܚܬܳܡܳܐ ܬܪܰܝܳܢܳܐ</edition>
