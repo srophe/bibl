@@ -59,6 +59,10 @@
                     </editor>
                     <title xml:lang="en" level="m">The Scattered Pearls: A History of Syriac Literature and Sciences</title>
                     <edition xml:lang="en">2nd rev. ed.</edition>
+                    <respStmt>
+                        <resp>Copyright<date>2000, 2003</date></resp>
+                        <name>Archdiocese of the Syriac Orthodox Church of the Eastern United States</name>
+                    </respStmt>
                     <imprint>
                         <publisher xml:lang="en">Gorgias Press</publisher>
                         <pubPlace ref="http://syriaca.org/place/840">Piscataway, <placeName ref="http://syriaca.org/place/841">NJ</placeName></pubPlace>
