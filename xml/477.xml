@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. A. Kiraz</author>
-               <author>J. F. Coakley</author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz</surname>
+               </author>
+               <author>
+                  <forename>J. F.</forename>
+                  <surname>Coakley</surname>
+               </author>
                <title level="a" xml:lang="en">Salomon, Désiré</title>
             </analytic>
             <monogr>

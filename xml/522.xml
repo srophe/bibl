@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>W. Witakowski </author>
+               <author>
+                  <forename>W.</forename>
+                  <surname>Witakowski </surname>
+               </author>
                <title level="a" xml:lang="en">Sleepers of Ephesus, Legend of the</title>
             </analytic>
             <monogr>

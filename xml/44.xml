@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. Juckel</author>
+               <author>
+                  <forename>A.</forename>
+                  <surname>Juckel</surname>
+               </author>
                <title level="a" xml:lang="en">al-Anbār</title>
             </analytic>
             <monogr>

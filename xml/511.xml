@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. Kessel </author>
+               <author>
+                  <forename>G.</forename>
+                  <surname>Kessel </surname>
+               </author>
                <title level="a" xml:lang="en">Shemʿon d-Ṭaybutheh</title>
             </analytic>
             <monogr>

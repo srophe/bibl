@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>I. Yakubovich</author>
+               <author>
+                  <forename>I.</forename>
+                  <surname>Yakubovich</surname>
+               </author>
                <title level="a" xml:lang="en">Sogdian</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>L. R. Wickham</author>
+               <author>
+                  <forename>L. R.</forename>
+                  <surname>Wickham</surname>
+               </author>
                <title level="a" xml:lang="en">Peter of Kallinikos</title>
             </analytic>
             <monogr>

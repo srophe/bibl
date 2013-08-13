@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. A. Loopstra </author>
+               <author>
+                  <forename>J. A.</forename>
+                  <surname>Loopstra </surname>
+               </author>
                <title level="a" xml:lang="en">Qarqaphto, Monastery of</title>
             </analytic>
             <monogr>

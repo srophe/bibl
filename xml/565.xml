@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>D. Bundy </author>
+               <author>
+                  <forename>D.</forename>
+                  <surname>Bundy </surname>
+               </author>
                <title level="a" xml:lang="en">Timotheos I</title>
             </analytic>
             <monogr>

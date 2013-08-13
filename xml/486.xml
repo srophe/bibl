@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. A. Kiraz</author>
-               <author>S. P. Brock</author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz</surname>
+               </author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
                <title level="a" xml:lang="en">Scher, Addai</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>M. S. Lattke </author>
+               <author>
+                  <forename>M. S.</forename>
+                  <surname>Lattke </surname>
+               </author>
                <title level="a" xml:lang="en">Solomon, Odes of</title>
             </analytic>
             <monogr>

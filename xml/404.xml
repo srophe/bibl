@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. A. Bevan </author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Bevan </surname>
+               </author>
                <title level="a" xml:lang="en">Nestorius</title>
             </analytic>
             <monogr>

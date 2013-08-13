@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>C. A. Stewart</author>
+               <author>
+                  <forename>C. A.</forename>
+                  <surname>Stewart</surname>
+               </author>
                <title level="a" xml:lang="en">Macarian Homilies</title>
             </analytic>
             <monogr>

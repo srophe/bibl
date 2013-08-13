@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>M. J. Blanchard</author>
+               <author>
+                  <forename>M. J.</forename>
+                  <surname>Blanchard</surname>
+               </author>
                <title level="a" xml:lang="en">Vaschalde, Arthur Adolphe</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>F. Briquel-Chatonnet </author>
+               <author>
+                  <forename>F.</forename>
+                  <surname>Briquel-Chatonnet </surname>
+               </author>
                <title level="a" xml:lang="en">Guillaumont, Antoine</title>
             </analytic>
             <monogr>

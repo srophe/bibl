@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>C. Leonhard</author>
+               <author>
+                  <forename>C.</forename>
+                  <surname>Leonhard</surname>
+               </author>
                <title level="a" xml:lang="en">Cave of Treasures</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. G. Salvesen </author>
+               <author>
+                  <forename>A. G.</forename>
+                  <surname>Salvesen </surname>
+               </author>
                <title level="a" xml:lang="en">Syro-Hexapla</title>
             </analytic>
             <monogr>

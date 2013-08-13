@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>H. Takahashi</author>
-               <author>L. Van Rompay</author>
+               <author>
+                  <forename>H.</forename>
+                  <surname>Takahashi</surname>
+               </author>
+               <author>
+                  <forename>L.</forename>
+                  <surname>Van Rompay</surname>
+               </author>
                <title level="a" xml:lang="en">Reshʿayna</title>
             </analytic>
             <monogr>

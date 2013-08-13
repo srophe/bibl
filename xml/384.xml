@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>E. Fiano</author>
+               <author>
+                  <forename>E.</forename>
+                  <surname>Fiano</surname>
+               </author>
                <title level="a" xml:lang="en">Michael Badoqa</title>
             </analytic>
             <monogr>

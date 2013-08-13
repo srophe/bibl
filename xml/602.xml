@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. W. Watt</author>
+               <author>
+                  <forename>J. W.</forename>
+                  <surname>Watt</surname>
+               </author>
                <title level="a" xml:lang="en">Yeshuʿ the Stylite</title>
             </analytic>
             <monogr>

@@ -74,11 +74,29 @@
                                     <xsl:choose>
                                         <xsl:when test="contains(Author,' and ')">
                                             <xsl:for-each select="tokenize(Author,' and ')">
-                                                <author><xsl:value-of select="."/></author>
+                                                <author>
+                                                    <xsl:analyze-string select="." regex="\.\s[^.]*.$">
+                                                        <xsl:non-matching-substring>
+                                                            <forename><xsl:value-of select="."/>.</forename>
+                                                        </xsl:non-matching-substring>
+                                                        <xsl:matching-substring>
+                                                            <surname><xsl:value-of select="substring(.,3)"/></surname>
+                                                        </xsl:matching-substring>
+                                                    </xsl:analyze-string>
+                                                </author>
                                             </xsl:for-each>
                                         </xsl:when>
                                         <xsl:otherwise>
-                                            <author><xsl:value-of select="Author"/></author>        <!-- FUTURE: parse author names by last [A-Z]\. -->
+                                            <author>
+                                                <xsl:analyze-string select="Author" regex="\.\s[^.]*.$">
+                                                    <xsl:non-matching-substring>
+                                                        <forename><xsl:value-of select="."/>.</forename>
+                                                    </xsl:non-matching-substring>
+                                                    <xsl:matching-substring>
+                                                        <surname><xsl:value-of select="substring(.,3)"/></surname>
+                                                    </xsl:matching-substring>
+                                                </xsl:analyze-string>
+                                            </author>        <!-- FUTURE: parse author names by last [A-Z]\. -->
                                         </xsl:otherwise>
                                     </xsl:choose>
                                     <title level="a" xml:lang="en"><xsl:value-of select="Headword"/></title>

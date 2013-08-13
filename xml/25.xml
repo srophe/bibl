@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. W. Childers</author>
+               <author>
+                  <forename>J. W.</forename>
+                  <surname>Childers</surname>
+               </author>
                <title level="a" xml:lang="en">Abraham of Nathpar</title>
             </analytic>
             <monogr>

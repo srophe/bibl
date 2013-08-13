@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. A. Kiraz </author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz </surname>
+               </author>
                <title level="a" xml:lang="en">Daoud, Francis</title>
             </analytic>
             <monogr>

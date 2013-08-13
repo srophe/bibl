@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>R. A. Kitchen </author>
+               <author>
+                  <forename>R. A.</forename>
+                  <surname>Kitchen </surname>
+               </author>
                <title level="a" xml:lang="en">Iḥidāyā</title>
             </analytic>
             <monogr>

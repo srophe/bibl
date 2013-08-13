@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>M. Immerzeel</author>
+               <author>
+                  <forename>M.</forename>
+                  <surname>Immerzeel</surname>
+               </author>
                <title level="a" xml:lang="en">Kfar Helda</title>
             </analytic>
             <monogr>

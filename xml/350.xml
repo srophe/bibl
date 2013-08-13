@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>R. Doran</author>
+               <author>
+                  <forename>R.</forename>
+                  <surname>Doran</surname>
+               </author>
                <title level="a" xml:lang="en">Man of God of Edessa</title>
             </analytic>
             <monogr>

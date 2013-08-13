@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>T. Joseph</author>
+               <author>
+                  <forename>T.</forename>
+                  <surname>Joseph</surname>
+               </author>
                <title level="a" xml:lang="en">Malankara Syriac Orthodox Church</title>
             </analytic>
             <monogr>

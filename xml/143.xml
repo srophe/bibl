@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. P. Brock</author>
-               <author>J. F. Coakley</author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
+               <author>
+                  <forename>J. F.</forename>
+                  <surname>Coakley</surname>
+               </author>
                <title level="a" xml:lang="en">Church of the East</title>
             </analytic>
             <monogr>

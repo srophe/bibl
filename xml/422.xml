@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. M. Butts </author>
+               <author>
+                  <forename>A. M.</forename>
+                  <surname>Butts </surname>
+               </author>
                <title level="a" xml:lang="en">Papyri, Syriac</title>
             </analytic>
             <monogr>

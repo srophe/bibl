@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>M. C. Cassis</author>
+               <author>
+                  <forename>M. C.</forename>
+                  <surname>Cassis</surname>
+               </author>
                <title level="a" xml:lang="en">Seleucia-Ctesiphon</title>
             </analytic>
             <monogr>

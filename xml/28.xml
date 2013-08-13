@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>T. S. Wardle</author>
+               <author>
+                  <forename>T. S.</forename>
+                  <surname>Wardle</surname>
+               </author>
                <title level="a" xml:lang="en">Addai, Teaching of</title>
             </analytic>
             <monogr>

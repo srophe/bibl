@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>P. E. Pormann </author>
+               <author>
+                  <forename>P. E.</forename>
+                  <surname>Pormann </surname>
+               </author>
                <title level="a" xml:lang="en">Medicine</title>
             </analytic>
             <monogr>

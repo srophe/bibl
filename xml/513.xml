@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>L. Van Rompay</author>
+               <author>
+                  <forename>L.</forename>
+                  <surname>Van Rompay</surname>
+               </author>
                <title level="a" xml:lang="en">Shemʿun of Beth Arsham</title>
             </analytic>
             <monogr>

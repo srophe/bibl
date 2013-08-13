@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. N. Palmer </author>
+               <author>
+                  <forename>A. N.</forename>
+                  <surname>Palmer </surname>
+               </author>
                <title level="a" xml:lang="en">Ṭur ʿAbdin</title>
             </analytic>
             <monogr>

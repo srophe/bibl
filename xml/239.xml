@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>W. Witakowski</author>
+               <author>
+                  <forename>W.</forename>
+                  <surname>Witakowski</surname>
+               </author>
                <title level="a" xml:lang="en">Giwargis of Bʿeltan</title>
             </analytic>
             <monogr>

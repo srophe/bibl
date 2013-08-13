@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>W. L. Petersen </author>
+               <author>
+                  <forename>W. L.</forename>
+                  <surname>Petersen </surname>
+               </author>
                <title level="a" xml:lang="en">Romanos the Melodist</title>
             </analytic>
             <monogr>

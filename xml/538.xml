@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>D. G. K. Taylor </author>
+               <author>
+                  <forename>D. G. K.</forename>
+                  <surname>Taylor </surname>
+               </author>
                <title level="a" xml:lang="en">Syriac Lexicography</title>
             </analytic>
             <monogr>

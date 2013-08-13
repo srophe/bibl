@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. F. Healey</author>
+               <author>
+                  <forename>J. F.</forename>
+                  <surname>Healey</surname>
+               </author>
                <title level="a" xml:lang="en">Script, Syriac</title>
             </analytic>
             <monogr>

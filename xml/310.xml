@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. A. Kiraz</author>
-               <author>L. Van Rompay</author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz</surname>
+               </author>
+               <author>
+                  <forename>L.</forename>
+                  <surname>Van Rompay</surname>
+               </author>
                <title level="a" xml:lang="en">Jerusalem</title>
             </analytic>
             <monogr>

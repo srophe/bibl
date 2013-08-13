@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. H. Becker </author>
+               <author>
+                  <forename>A. H.</forename>
+                  <surname>Becker </surname>
+               </author>
                <title level="a" xml:lang="en">Edessa, School of</title>
             </analytic>
             <monogr>

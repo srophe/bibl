@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>B. Colless</author>
+               <author>
+                  <forename>B.</forename>
+                  <surname>Colless</surname>
+               </author>
                <title level="a" xml:lang="en">Yoḥannan of Dalyatha</title>
             </analytic>
             <monogr>

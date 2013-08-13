@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>M. P. Penn </author>
+               <author>
+                  <forename>M. P.</forename>
+                  <surname>Penn </surname>
+               </author>
                <title level="a" xml:lang="en">Nonos of Nisibis</title>
             </analytic>
             <monogr>

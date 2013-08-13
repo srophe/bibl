@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>R. Contini</author>
+               <author>
+                  <forename>R.</forename>
+                  <surname>Contini</surname>
+               </author>
                <title level="a" xml:lang="en">Furlani, Giuseppe</title>
             </analytic>
             <monogr>

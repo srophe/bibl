@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>E. C. Dodd </author>
+               <author>
+                  <forename>E. C.</forename>
+                  <surname>Dodd </surname>
+               </author>
                <title level="a" xml:lang="en">Mūsā al-Ḥabashī, Dayr Mār</title>
             </analytic>
             <monogr>

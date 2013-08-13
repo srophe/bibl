@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>D. J. Lane </author>
+               <author>
+                  <forename>D. J.</forename>
+                  <surname>Lane </surname>
+               </author>
                <title level="a" xml:lang="en">Shubḥalmaran</title>
             </analytic>
             <monogr>

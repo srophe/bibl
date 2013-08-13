@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. F. Coakley</author>
+               <author>
+                  <forename>J. F.</forename>
+                  <surname>Coakley</surname>
+               </author>
                <title level="a" xml:lang="en">Chaldeans</title>
             </analytic>
             <monogr>

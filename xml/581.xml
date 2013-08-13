@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>E. Buck</author>
+               <author>
+                  <forename>E.</forename>
+                  <surname>Buck</surname>
+               </author>
                <title level="a" xml:lang="en">Vööbus, Arthur</title>
             </analytic>
             <monogr>

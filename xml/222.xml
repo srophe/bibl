@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>Polycarpus A. Aydin</author>
-               <author>G. A. Kiraz</author>
+               <author>
+                  <forename>Polycarpus A.</forename>
+                  <surname>Aydin</surname>
+               </author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz</surname>
+               </author>
                <title level="a" xml:lang="en">Gabriel, Fawlos</title>
             </analytic>
             <monogr>

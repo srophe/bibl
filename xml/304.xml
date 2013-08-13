@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. P. Brock</author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
                <title level="a" xml:lang="en">Iwannis of Dara</title>
             </analytic>
             <monogr>

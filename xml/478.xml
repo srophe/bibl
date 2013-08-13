@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. A. Kiraz</author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz</surname>
+               </author>
                <title level="a" xml:lang="en">Samuel, Athanasios Yeshuʿ</title>
             </analytic>
             <monogr>

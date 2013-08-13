@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. T. Walker </author>
+               <author>
+                  <forename>J. T.</forename>
+                  <surname>Walker </surname>
+               </author>
                <title level="a" xml:lang="en">Nineveh</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>H. L. Murre-van den Berg</author>
+               <author>
+                  <forename>H. L.</forename>
+                  <surname>Murre-van den Berg</surname>
+               </author>
                <title level="a" xml:lang="en">Hormizd, Monastery of Rabban</title>
             </analytic>
             <monogr>

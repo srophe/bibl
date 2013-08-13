@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. P. Brock</author>
-               <author>J. W. Childers</author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
+               <author>
+                  <forename>J. W.</forename>
+                  <surname>Childers</surname>
+               </author>
                <title level="a" xml:lang="en">Georgian Christianity, Syriac contacts with</title>
             </analytic>
             <monogr>

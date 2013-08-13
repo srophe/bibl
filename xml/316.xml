@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J.-E. Steppa</author>
+               <author>
+                  <forename>J.-E.</forename>
+                  <surname>Steppa</surname>
+               </author>
                <title level="a" xml:lang="en">John Rufus</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>H. Kaufhold</author>
+               <author>
+                  <forename>H.</forename>
+                  <surname>Kaufhold</surname>
+               </author>
                <title level="a" xml:lang="en">Gabriel of Baṣra</title>
             </analytic>
             <monogr>

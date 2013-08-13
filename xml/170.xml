@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. D. Ryan</author>
+               <author>
+                  <forename>S. D.</forename>
+                  <surname>Ryan</surname>
+               </author>
                <title level="a" xml:lang="en">Denḥa</title>
             </analytic>
             <monogr>

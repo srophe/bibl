@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. Tannous</author>
+               <author>
+                  <forename>J.</forename>
+                  <surname>Tannous</surname>
+               </author>
                <title level="a" xml:lang="en">Theodotos of Amid</title>
             </analytic>
             <monogr>

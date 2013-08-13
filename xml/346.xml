@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. R. K. Fenwick </author>
+               <author>
+                  <forename>J. R. K.</forename>
+                  <surname>Fenwick </surname>
+               </author>
                <title level="a" xml:lang="en">Malabar Independent Syrian Church</title>
             </analytic>
             <monogr>

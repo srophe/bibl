@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>M. T. Hansbury</author>
+               <author>
+                  <forename>M. T.</forename>
+                  <surname>Hansbury</surname>
+               </author>
                <title level="a" xml:lang="en">Beulay, Robert</title>
             </analytic>
             <monogr>

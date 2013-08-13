@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. P. Brock</author>
-               <author>A. M. Butts</author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
+               <author>
+                  <forename>A. M.</forename>
+                  <surname>Butts</surname>
+               </author>
                <title level="a" xml:lang="en">Syriac Conferences</title>
             </analytic>
             <monogr>

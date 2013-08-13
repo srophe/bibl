@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>Kh. Dinno</author>
+               <author>
+                  <forename>Kh.</forename>
+                  <surname>Dinno</surname>
+               </author>
                <title level="a" xml:lang="en">Dinno, Niʿmatullāh</title>
             </analytic>
             <monogr>

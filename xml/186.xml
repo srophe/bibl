@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>G. J. Reinink </author>
+               <author>
+                  <forename>G. J.</forename>
+                  <surname>Reinink </surname>
+               </author>
                <title level="a" xml:lang="en">Drijvers, Hendrik (Han) Jan Willem</title>
             </analytic>
             <monogr>

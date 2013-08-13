@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>J. J. van Ginkel</author>
+               <author>
+                  <forename>J. J.</forename>
+                  <surname>van Ginkel</surname>
+               </author>
                <title level="a" xml:lang="en">Chronicle of 1234</title>
             </analytic>
             <monogr>

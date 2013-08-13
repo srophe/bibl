@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. P. Brock</author>
-               <author>G. A. Kiraz </author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
+               <author>
+                  <forename>G. A.</forename>
+                  <surname>Kiraz </surname>
+               </author>
                <title level="a" xml:lang="en">Raḥmani, Ignatius Ephrem II</title>
             </analytic>
             <monogr>

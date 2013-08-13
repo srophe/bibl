@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>C. E. Morrison</author>
+               <author>
+                  <forename>C. E.</forename>
+                  <surname>Morrison</surname>
+               </author>
                <title level="a" xml:lang="en">Exegesis, New Testament</title>
             </analytic>
             <monogr>

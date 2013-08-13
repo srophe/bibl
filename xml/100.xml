@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>B. Snelders</author>
+               <author>
+                  <forename>B.</forename>
+                  <surname>Snelders</surname>
+               </author>
                <title level="a" xml:lang="en">Behnam, Dayro d-Mor</title>
             </analytic>
             <monogr>

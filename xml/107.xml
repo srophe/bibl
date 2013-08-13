@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. Harrak</author>
+               <author>
+                  <forename>A.</forename>
+                  <surname>Harrak</surname>
+               </author>
                <title level="a" xml:lang="en">Beth ʿArbaye</title>
             </analytic>
             <monogr>

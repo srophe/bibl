@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>A. Mengozzi</author>
+               <author>
+                  <forename>A.</forename>
+                  <surname>Mengozzi</surname>
+               </author>
                <title level="a" xml:lang="en">Yawsep of Telkepe</title>
             </analytic>
             <monogr>

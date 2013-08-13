@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. H. Griffith</author>
+               <author>
+                  <forename>S. H.</forename>
+                  <surname>Griffith</surname>
+               </author>
                <title level="a" xml:lang="en">Islam, Syriac contacts with</title>
             </analytic>
             <monogr>

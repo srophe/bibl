@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>T. A. Carlson </author>
+               <author>
+                  <forename>T. A.</forename>
+                  <surname>Carlson </surname>
+               </author>
                <title level="a" xml:lang="en">Isḥaq Shbadnaya</title>
             </analytic>
             <monogr>

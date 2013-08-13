@@ -50,8 +50,14 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>R. B. ter Haar Romeny</author>
-               <author>C. E. Morrison</author>
+               <author>
+                  <forename>R. B.</forename>
+                  <surname>ter Haar Romeny</surname>
+               </author>
+               <author>
+                  <forename>C. E.</forename>
+                  <surname>Morrison</surname>
+               </author>
                <title level="a" xml:lang="en">Peshitta</title>
             </analytic>
             <monogr>

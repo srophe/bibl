@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>R. B. ter Haar Romeny</author>
+               <author>
+                  <forename>R. B.</forename>
+                  <surname>ter Haar Romeny</surname>
+               </author>
                <title level="a" xml:lang="en">Exegesis, Old Testament</title>
             </analytic>
             <monogr>

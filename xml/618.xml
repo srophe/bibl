@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. A. Harvey</author>
+               <author>
+                  <forename>S. A.</forename>
+                  <surname>Harvey</surname>
+               </author>
                <title level="a" xml:lang="en">Yuḥanon of Ephesus</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>V. Menze</author>
+               <author>
+                  <forename>V.</forename>
+                  <surname>Menze</surname>
+               </author>
                <title level="a" xml:lang="en">Yuḥanon of Tella</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>S. P. Brock</author>
+               <author>
+                  <forename>S. P.</forename>
+                  <surname>Brock</surname>
+               </author>
                <title level="a" xml:lang="en">Giwargi, bpof the Arab tribes</title>
             </analytic>
             <monogr>

@@ -50,7 +50,10 @@
       <body>
          <biblStruct>
             <analytic>
-               <author>E. G. Mathews, Jr</author>
+               <author>
+                  <forename>E. G.</forename>
+                  <surname>Mathews, Jr</surname>
+               </author>
                <title level="a" xml:lang="en">Shaliṭa, Mar</title>
             </analytic>
             <monogr>
