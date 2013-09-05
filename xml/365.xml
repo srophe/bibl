@@ -36,14 +36,14 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2013-08-12-04:00</date>
+            <date>2013-09-04-04:00</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-08-12-04:00">CREATED: bibl</change>
+         <change who="http://syriaca.org/editors.xml#tcarlson" when="2013-09-04-04:00">CREATED: bibl</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -92,7 +92,7 @@
                   </pubPlace>
                   <date>2011</date>
                </imprint>
-               <biblScope type="page"/>
+               <biblScope type="page">270-271</biblScope>
             </monogr>
             <idno type="URI">http://syriaca.org/bibl/365</idno>
          </biblStruct>
